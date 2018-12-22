@@ -1,0 +1,7 @@
+{
+  "name": "Chococook",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
